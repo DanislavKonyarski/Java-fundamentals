@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="" />
+    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/DataTypesAndVariables/DataTypesAndVariables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-19"
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/Java-fundamentals"
   }
 }]]></component>
   <component name="RunManager">
