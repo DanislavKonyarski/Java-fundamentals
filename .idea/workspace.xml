@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/DataTypesAndVariables/DataTypesAndVariables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/02. Java-Fundamentals-Data-Types-and-Variables-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/JavaFundamentalsDataTypesAndVariablesLab.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +39,11 @@
     "last_opened_file_path": "C:/Users/user/Documents/GitHub/Java-fundamentals"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="T1Ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsAndLoopsExercise.T1Ages" />
