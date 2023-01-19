@@ -5,7 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q03Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T3Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q06StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T6StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q10PadawanEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T10PadawanEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q11RageExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T11RageExpenses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q1Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T1Ages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q2Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T2Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q4PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T4PrintAndSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q5Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T5Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q7VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T7VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q8TriangleOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T8TriangleOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsExercise/Q9Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/T9Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsMoreExercise/Q1SortNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/T1SortNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsMoreExercise/Q2EnglishNameOfTheLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/T2EnglishNameOfTheLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsMoreExercise/Q3GamingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/T3GamingStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsMoreExercise/Q4ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/T4ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsAndLoopsMoreExercise/Q5Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/T5Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q10MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T10MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q11MultiplicationTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T11MultiplicationTable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q12EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T12EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q13RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T13RefactorSumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q1StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T1StudentInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q2Passed.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T2Passed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q3PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T3PassedOrFailed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q4BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T4BackIn30Minutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q5MonthPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T5MonthPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q6ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T6ForeignLanguages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q7TheatrePromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T7TheatrePromotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q8DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T8DivisibleBy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/L1BasicSyntaxConditionalStatementsandLoopsLab/Q9SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsandLoopsLab/T9SumOfOddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +60,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Q1Ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L1BasicSyntaxConditionalStatementsAndLoopsExercise.Q1Ages" />
+    <configuration name="T1Ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsAndLoopsExercise.T1Ages" />
       <module name="BasicSyntaxConditionalStatementsAndLoops" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L1BasicSyntaxConditionalStatementsAndLoopsExercise.*" />
+          <option name="PATTERN" value="BasicSyntaxConditionalStatementsAndLoopsExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1Ages" />
+        <item itemvalue="Application.T1Ages" />
       </list>
     </recent_temporary>
   </component>
