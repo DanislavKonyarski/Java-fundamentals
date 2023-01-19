@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/01. Java-Fundamentals-Basic-Syntax-Conditional Statements-and-Loops-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsExercise/JavaFundamentalsBasicSyntaxConditionalStatementsAndLoopsExercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/01. Java-Fundamentals-Basic-Syntax-Conditional Statements-and-Loops-More-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/src/BasicSyntaxConditionalStatementsAndLoopsMoreExercise/JavaFundamentalsBasicSyntaxConditionalStatementsAndLoopsMoreExercise.docx" afterDir="false" />
-    </list>
+    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
