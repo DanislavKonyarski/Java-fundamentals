@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T10SpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T11RefactorVolumeOfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T12RefactorSpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T4TownInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T5ConcatNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T6CharsToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T7ReversedChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T8LowerOrUpper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T9CenturiesToMinutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T3ExactSumOfRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T3ExactSumOfRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
