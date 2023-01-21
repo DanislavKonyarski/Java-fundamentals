@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T2SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T3Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T4SumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T5PrintPartOfASCIITable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T6TriplesOfLatinLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +56,13 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T12RefactorSpecialNumbers">
-    <configuration name="T10SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesLab.T10SpecialNumbers" />
+  <component name="RunManager" selected="Application.T6TriplesOfLatinLetters">
+    <configuration name="T2SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T2SumDigits" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesLab.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T11RefactorVolumeOfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesLab.T11RefactorVolumeOfPyramid" />
+    <configuration name="T3Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T3Elevator" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesLab.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T12RefactorSpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesLab.T12RefactorSpecialNumbers" />
+    <configuration name="T4SumOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T4SumOfChars" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesLab.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T7ReversedChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesLab.T7ReversedChars" />
+    <configuration name="T5PrintPartOfASCIITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T5PrintPartOfASCIITable" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesLab.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9CenturiesToMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesLab.T9CenturiesToMinutes" />
+    <configuration name="T6TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T6TriplesOfLatinLetters" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesLab.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T12RefactorSpecialNumbers" />
-        <item itemvalue="Application.T11RefactorVolumeOfPyramid" />
-        <item itemvalue="Application.T10SpecialNumbers" />
-        <item itemvalue="Application.T9CenturiesToMinutes" />
-        <item itemvalue="Application.T7ReversedChars" />
+        <item itemvalue="Application.T6TriplesOfLatinLetters" />
+        <item itemvalue="Application.T5PrintPartOfASCIITable" />
+        <item itemvalue="Application.T4SumOfChars" />
+        <item itemvalue="Application.T3Elevator" />
+        <item itemvalue="Application.T2SumDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +169,11 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesLab/T10SpecialNumbers.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T6TriplesOfLatinLetters.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
