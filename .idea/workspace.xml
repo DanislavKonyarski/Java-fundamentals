@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T2SumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T3Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T4SumOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T5PrintPartOfASCIITable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T6TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T10PokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T11Snowballs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T7WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T8BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T9SpiceMustFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T1IntegerOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +55,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T6TriplesOfLatinLetters">
-    <configuration name="T2SumDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T2SumDigits" />
+  <component name="RunManager" selected="Application.T11Snowballs">
+    <configuration name="T10PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T10PokeMon" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3Elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T3Elevator" />
+    <configuration name="T11Snowballs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T11Snowballs" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4SumOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T4SumOfChars" />
+    <configuration name="T7WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T7WaterOverflow" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5PrintPartOfASCIITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T5PrintPartOfASCIITable" />
+    <configuration name="T8BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T8BeerKegs" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T6TriplesOfLatinLetters" />
+    <configuration name="T9SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T9SpiceMustFlow" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T6TriplesOfLatinLetters" />
-        <item itemvalue="Application.T5PrintPartOfASCIITable" />
-        <item itemvalue="Application.T4SumOfChars" />
-        <item itemvalue="Application.T3Elevator" />
-        <item itemvalue="Application.T2SumDigits" />
+        <item itemvalue="Application.T11Snowballs" />
+        <item itemvalue="Application.T10PokeMon" />
+        <item itemvalue="Application.T9SpiceMustFlow" />
+        <item itemvalue="Application.T8BeerKegs" />
+        <item itemvalue="Application.T7WaterOverflow" />
       </list>
     </recent_temporary>
   </component>
