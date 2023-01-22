@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T2FromLeftToTheRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T3FloatingEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T4RefactoringPrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T5DecryptingMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,33 +53,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2FromLeftToTheRight">
-    <configuration name="T10PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T10PokeMon" />
-      <module name="DataTypesAndVariables" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T11Snowballs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T11Snowballs" />
-      <module name="DataTypesAndVariables" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T5DecryptingMessage">
     <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
@@ -104,12 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T9SpiceMustFlow" />
+    <configuration name="T3FloatingEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T3FloatingEquality" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4RefactoringPrimeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T4RefactoringPrimeChecker" />
+      <module name="DataTypesAndVariables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T5DecryptingMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T5DecryptingMessage" />
+      <module name="DataTypesAndVariables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T5DecryptingMessage" />
+        <item itemvalue="Application.T4RefactoringPrimeChecker" />
+        <item itemvalue="Application.T3FloatingEquality" />
         <item itemvalue="Application.T2FromLeftToTheRight" />
         <item itemvalue="Application.T1DataTypeFinder" />
-        <item itemvalue="Application.T11Snowballs" />
-        <item itemvalue="Application.T10PokeMon" />
-        <item itemvalue="Application.T9SpiceMustFlow" />
       </list>
     </recent_temporary>
   </component>
