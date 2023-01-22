@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T10PokeMon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T11Snowballs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T7WaterOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T8BeerKegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T9SpiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T2FromLeftToTheRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T11Snowballs">
+  <component name="RunManager" selected="Application.T2FromLeftToTheRight">
     <configuration name="T10PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T10PokeMon" />
       <module name="DataTypesAndVariables" />
@@ -82,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T7WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T7WaterOverflow" />
+    <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T8BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesExercise.T8BeerKegs" />
+    <configuration name="T2FromLeftToTheRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T2FromLeftToTheRight" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesExercise.*" />
+          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2FromLeftToTheRight" />
+        <item itemvalue="Application.T1DataTypeFinder" />
         <item itemvalue="Application.T11Snowballs" />
         <item itemvalue="Application.T10PokeMon" />
         <item itemvalue="Application.T9SpiceMustFlow" />
-        <item itemvalue="Application.T8BeerKegs" />
-        <item itemvalue="Application.T7WaterOverflow" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +169,11 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesExercise/T6TriplesOfLatinLetters.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T2FromLeftToTheRight.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
