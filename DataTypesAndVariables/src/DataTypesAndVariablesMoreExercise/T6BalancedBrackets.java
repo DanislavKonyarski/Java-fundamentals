@@ -11,15 +11,15 @@ public class T6BalancedBrackets {
         for (int i = 0; i < countLine; i++) {
             String input = scanner.nextLine();
             char symbol = input.charAt(0);
-            if (symbol=='('){
+            if (symbol == '(') {
                 countOpenBracket++;
-            } else if (symbol==')'&&countOpenBracket>countCloseBracket) {
+            } else if (symbol == ')' && countOpenBracket > countCloseBracket) {
                 countCloseBracket++;
             }
         }
-        if (countCloseBracket==countOpenBracket){
+        if (countCloseBracket == countOpenBracket) {
             System.out.println("BALANCED");
-        }else {
+        } else {
             System.out.println("UNBALANCED");
         }
     }

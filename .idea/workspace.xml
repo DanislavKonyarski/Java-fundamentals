@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T6BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T1DataTypeFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T6BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T6BalancedBrackets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +52,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T6BalancedBrackets">
-    <configuration name="T2FromLeftToTheRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T2FromLeftToTheRight" />
+  <component name="RunManager" selected="Application.T1DataTypeFinder">
+    <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1DataTypeFinder" />
         <item itemvalue="Application.T6BalancedBrackets" />
         <item itemvalue="Application.T5DecryptingMessage" />
         <item itemvalue="Application.T4RefactoringPrimeChecker" />
         <item itemvalue="Application.T3FloatingEquality" />
-        <item itemvalue="Application.T2FromLeftToTheRight" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +175,11 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T2FromLeftToTheRight.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T1DataTypeFinder.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
