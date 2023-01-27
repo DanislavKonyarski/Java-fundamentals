@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task" />
+    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/ArraysLab/T1DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/ArraysLab/T1DayOfWeek.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1DataTypeFinder">
+  <component name="RunManager" selected="Application.T1DayOfWeek">
     <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3FloatingEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T3FloatingEquality" />
-      <module name="DataTypesAndVariables" />
+    <configuration name="T1DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysLab.T1DayOfWeek" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
+          <option name="PATTERN" value="ArraysLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1DayOfWeek" />
         <item itemvalue="Application.T1DataTypeFinder" />
         <item itemvalue="Application.T6BalancedBrackets" />
         <item itemvalue="Application.T5DecryptingMessage" />
         <item itemvalue="Application.T4RefactoringPrimeChecker" />
-        <item itemvalue="Application.T3FloatingEquality" />
       </list>
     </recent_temporary>
   </component>
