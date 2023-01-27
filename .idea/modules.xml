@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops.iml" filepath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java-fundamentals.iml" />
