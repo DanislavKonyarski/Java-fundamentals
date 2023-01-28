@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysLab/T2PrintNumbersInReverseOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/ArraysLab/T1DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/ArraysLab/T1DayOfWeek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1DayOfWeek">
+  <component name="RunManager" selected="Application.T2PrintNumbersInReverseOrder">
     <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4RefactoringPrimeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T4RefactoringPrimeChecker" />
-      <module name="DataTypesAndVariables" />
+    <configuration name="T2PrintNumbersInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysLab.T2PrintNumbersInReverseOrder" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
+          <option name="PATTERN" value="ArraysLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2PrintNumbersInReverseOrder" />
         <item itemvalue="Application.T1DayOfWeek" />
         <item itemvalue="Application.T1DataTypeFinder" />
         <item itemvalue="Application.T6BalancedBrackets" />
         <item itemvalue="Application.T5DecryptingMessage" />
-        <item itemvalue="Application.T4RefactoringPrimeChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +179,11 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T1DataTypeFinder.java</url>
           <line>13</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysLab/T2PrintNumbersInReverseOrder.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
