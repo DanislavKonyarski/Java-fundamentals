@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T3ZigZagArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T4ArrayRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T3ZigZagArrays">
+  <component name="RunManager" selected="Application.T4ArrayRotation">
     <configuration name="T1Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercise.T1Train" />
       <module name="Arrays" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6EqualArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysLab.T6EqualArrays" />
+    <configuration name="T4ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T4ArrayRotation" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysLab.*" />
+          <option name="PATTERN" value="ArraysExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T4ArrayRotation" />
         <item itemvalue="Application.T3ZigZagArrays" />
         <item itemvalue="Application.T2CommonElements" />
         <item itemvalue="Application.T1Train" />
         <item itemvalue="Application.T7CondenseArrayToNumber" />
-        <item itemvalue="Application.T6EqualArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +189,11 @@
           <url>file://$PROJECT_DIR$/Arrays/src/ArraysLab/T7CondenseArrayToNumber.java</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T4ArrayRotation.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
