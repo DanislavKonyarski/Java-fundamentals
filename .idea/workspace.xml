@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T2CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T3ZigZagArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2CommonElements">
+  <component name="RunManager" selected="Application.T3ZigZagArrays">
     <configuration name="T1Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercise.T1Train" />
       <module name="Arrays" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5EvenAndOddSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysLab.T5EvenAndOddSubtraction" />
+    <configuration name="T3ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T3ZigZagArrays" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysLab.*" />
+          <option name="PATTERN" value="ArraysExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3ZigZagArrays" />
         <item itemvalue="Application.T2CommonElements" />
         <item itemvalue="Application.T1Train" />
         <item itemvalue="Application.T7CondenseArrayToNumber" />
         <item itemvalue="Application.T6EqualArrays" />
-        <item itemvalue="Application.T5EvenAndOddSubtraction" />
       </list>
     </recent_temporary>
   </component>
