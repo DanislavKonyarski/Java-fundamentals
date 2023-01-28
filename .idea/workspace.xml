@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysLab/T2PrintNumbersInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysLab/T3SumEvenNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2PrintNumbersInReverseOrder">
+  <component name="RunManager" selected="Application.T3SumEvenNumbers">
     <configuration name="T1DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T1DataTypeFinder" />
       <module name="DataTypesAndVariables" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5DecryptingMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariablesMoreExercise.T5DecryptingMessage" />
-      <module name="DataTypesAndVariables" />
+    <configuration name="T3SumEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysLab.T3SumEvenNumbers" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesAndVariablesMoreExercise.*" />
+          <option name="PATTERN" value="ArraysLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3SumEvenNumbers" />
         <item itemvalue="Application.T2PrintNumbersInReverseOrder" />
         <item itemvalue="Application.T1DayOfWeek" />
         <item itemvalue="Application.T1DataTypeFinder" />
         <item itemvalue="Application.T6BalancedBrackets" />
-        <item itemvalue="Application.T5DecryptingMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -179,11 +179,6 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariables/src/DataTypesAndVariablesMoreExercise/T1DataTypeFinder.java</url>
           <line>13</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Arrays/src/ArraysLab/T2PrintNumbersInReverseOrder.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
