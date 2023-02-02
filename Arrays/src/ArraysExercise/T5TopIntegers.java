@@ -17,14 +17,15 @@ public class T5TopIntegers {
         }
         System.out.print(topInteger + " ");
         for (int j = indexTopInteger + 2; j < numbersArr.length ; j++) {
-            if (numbersArr[j -1] <= numbersArr[j]) {
-                System.out.print(numbersArr[j ] + " ");
-            }else {
-                System.out.print(numbersArr[j-1]+" ");
+            if (numbersArr[j -1] > numbersArr[j]) {
+                System.out.print(numbersArr[j-1 ] + " ");
+            }
+            if (j == numbersArr.length-1) {
+                System.out.println(numbersArr[numbersArr.length - 1]);
             }
         }
-        if (numbersArr[numbersArr.length-1]<numbersArr[numbersArr.length-2]) {
-            System.out.println(numbersArr[numbersArr.length - 1]);
+        if (indexTopInteger==numbersArr.length-2){
+            System.out.println(numbersArr[numbersArr.length-1]);
         }
     }
 }
