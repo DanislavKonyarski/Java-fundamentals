@@ -3,7 +3,7 @@ package ArraysExercise;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class T6EqualSums {
+public class T6EqualSums90From100 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] numberArr = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
