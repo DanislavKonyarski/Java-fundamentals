@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change beforePath="$PROJECT_DIR$/MethodsLab/src/df.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsLab/src/T1SignOfIntegerNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T2Grades.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1SignOfIntegerNumbers">
+  <component name="RunManager" selected="Application.T2Grades">
     <configuration name="T10TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercise.T10TreasureHunt" />
       <module name="Arrays" />
@@ -71,15 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T7MaxSequenceOfEqualElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T7MaxSequenceOfEqualElements" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="T2Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2Grades" />
+      <module name="MethodsLab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2Grades" />
         <item itemvalue="Application.T1SignOfIntegerNumbers" />
         <item itemvalue="Application.T10TreasureHunt" />
         <item itemvalue="Application.T9ArrayModifier" />
         <item itemvalue="Application.T8MagicSum" />
-        <item itemvalue="Application.T7MaxSequenceOfEqualElements" />
       </list>
     </recent_temporary>
   </component>
