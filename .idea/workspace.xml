@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T9ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T9ArrayModifier">
-    <configuration name="T5TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T5TopIntegers" />
+  <component name="RunManager" selected="Application.T10TreasureHunt">
+    <configuration name="T10TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T10TreasureHunt" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6EqualSums90From100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T6EqualSums90From100" />
+    <configuration name="T5TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T5TopIntegers" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T10TreasureHunt" />
         <item itemvalue="Application.T9ArrayModifier" />
         <item itemvalue="Application.T8MagicSum" />
         <item itemvalue="Application.T7MaxSequenceOfEqualElements" />
         <item itemvalue="Application.T5TopIntegers" />
-        <item itemvalue="Application.T6EqualSums90From100" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +220,16 @@
           <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T8MagicSum.java</url>
           <line>10</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T9ArrayModifier.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
