@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodsLab/src/df.java" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsLab/src/T1SignOfIntegerNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T10TreasureHunt">
+  <component name="RunManager" selected="Application.T1SignOfIntegerNumbers">
     <configuration name="T10TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercise.T10TreasureHunt" />
       <module name="Arrays" />
@@ -65,15 +64,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T5TopIntegers" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="T1SignOfIntegerNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T1SignOfIntegerNumbers" />
+      <module name="MethodsLab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1SignOfIntegerNumbers" />
         <item itemvalue="Application.T10TreasureHunt" />
         <item itemvalue="Application.T9ArrayModifier" />
         <item itemvalue="Application.T8MagicSum" />
         <item itemvalue="Application.T7MaxSequenceOfEqualElements" />
-        <item itemvalue="Application.T5TopIntegers" />
       </list>
     </recent_temporary>
   </component>
