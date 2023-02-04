@@ -81,7 +81,7 @@ public class T10TreasureHunt {
         for (int i = 0; i < finalArr.length; i++) {
             sum+=finalArr[i].length();
         }if (sum>0) {
-            System.out.printf("Average treasure gain: %.2f pirate credits.", sum / finalArr.length);
+            System.out.printf("Average treasure gain: %.2f pirate credits.%n", sum / finalArr.length);
         }else {
             System.out.println("Failed treasure hunt.");
         }
