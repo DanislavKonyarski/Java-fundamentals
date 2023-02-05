@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T3PrintingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T6CalculateRectangleArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T3PrintingTriangle">
+  <component name="RunManager" selected="Application.T6CalculateRectangleArea">
     <configuration name="T10TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysExercise.T10TreasureHunt" />
       <module name="Arrays" />
@@ -85,26 +85,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T9ArrayModifier" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="T6CalculateRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T6CalculateRectangleArea" />
+      <module name="MethodsLab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T6CalculateRectangleArea" />
         <item itemvalue="Application.T3PrintingTriangle" />
         <item itemvalue="Application.T2Grades" />
         <item itemvalue="Application.T1SignOfIntegerNumbers" />
         <item itemvalue="Application.T10TreasureHunt" />
-        <item itemvalue="Application.T9ArrayModifier" />
       </list>
     </recent_temporary>
   </component>
