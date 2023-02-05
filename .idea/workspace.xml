@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T6CalculateRectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T7RepeatString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +50,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T6CalculateRectangleArea">
-    <configuration name="T10TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysExercise.T10TreasureHunt" />
-      <module name="Arrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T7RepeatString">
     <configuration name="T1SignOfIntegerNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T1SignOfIntegerNumbers" />
       <module name="MethodsLab" />
@@ -92,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T7RepeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T7RepeatString" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T7RepeatString" />
         <item itemvalue="Application.T6CalculateRectangleArea" />
         <item itemvalue="Application.T3PrintingTriangle" />
         <item itemvalue="Application.T2Grades" />
         <item itemvalue="Application.T1SignOfIntegerNumbers" />
-        <item itemvalue="Application.T10TreasureHunt" />
       </list>
     </recent_temporary>
   </component>
