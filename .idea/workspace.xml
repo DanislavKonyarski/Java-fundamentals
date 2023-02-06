@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T10MultiplyEvensByOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T11MathOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T10MultiplyEvensByOdds">
+  <component name="RunManager" selected="Application.T11MathOperations">
     <configuration name="T10MultiplyEvensByOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T10MultiplyEvensByOdds" />
       <module name="MethodsLab" />
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6CalculateRectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T6CalculateRectangleArea" />
+    <configuration name="T11MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T11MathOperations" />
       <module name="MethodsLab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T11MathOperations" />
         <item itemvalue="Application.T10MultiplyEvensByOdds" />
         <item itemvalue="Application.T9GreaterOfTwoValues" />
         <item itemvalue="Application.T8MathPower" />
         <item itemvalue="Application.T7RepeatString" />
-        <item itemvalue="Application.T6CalculateRectangleArea" />
       </list>
     </recent_temporary>
   </component>
