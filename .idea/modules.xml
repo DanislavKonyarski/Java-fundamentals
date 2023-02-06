@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops.iml" filepath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/BasicSyntaxConditionalStatementsAndLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" filepath="$PROJECT_DIR$/DataTypesAndVariables/DataTypesAndVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java-fundamentals.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MethodsLab/MethodsLab.iml" filepath="$PROJECT_DIR$/MethodsLab/MethodsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsLab/Methods.iml" filepath="$PROJECT_DIR$/MethodsLab/Methods.iml" />
     </modules>
   </component>
 </project>
