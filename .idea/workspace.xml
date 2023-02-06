@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T8MathPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsLab/src/T9GreaterOfTwoValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +51,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T8MathPower">
-    <configuration name="T2Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2Grades" />
-      <module name="MethodsLab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T9GreaterOfTwoValues">
     <configuration name="T3PrintingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T3PrintingTriangle" />
       <module name="MethodsLab" />
@@ -86,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T9GreaterOfTwoValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T9GreaterOfTwoValues" />
+      <module name="MethodsLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T9GreaterOfTwoValues" />
         <item itemvalue="Application.T8MathPower" />
         <item itemvalue="Application.T7RepeatString" />
         <item itemvalue="Application.T6CalculateRectangleArea" />
         <item itemvalue="Application.T3PrintingTriangle" />
-        <item itemvalue="Application.T2Grades" />
       </list>
     </recent_temporary>
   </component>
