@@ -1,3 +1,5 @@
+package MethodsLab;
+
 import java.util.Scanner;
 
 public class T6CalculateRectangleArea {
