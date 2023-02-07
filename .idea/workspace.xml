@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Methods/src/MethodsExercise/T2VowelsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/src/MethodsExercise/T3CharactersInRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2VowelsCount">
+  <component name="RunManager" selected="Application.T3CharactersInRange">
     <configuration name="T10MultiplyEvensByOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T10MultiplyEvensByOdds" />
       <module name="Methods" />
@@ -95,20 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9GreaterOfTwoValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T9GreaterOfTwoValues" />
+    <configuration name="T3CharactersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodsExercise.T3CharactersInRange" />
       <module name="Methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MethodsExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3CharactersInRange" />
         <item itemvalue="Application.T2VowelsCount" />
         <item itemvalue="Application.T1SmallestOfThreeNumbers" />
         <item itemvalue="Application.T11MathOperations" />
         <item itemvalue="Application.T10MultiplyEvensByOdds" />
-        <item itemvalue="Application.T9GreaterOfTwoValues" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +221,11 @@
           <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T3CharactersInRange.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
