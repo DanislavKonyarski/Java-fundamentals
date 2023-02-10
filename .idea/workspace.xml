@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task" />
+    <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T9PalindromeIntegers">
+  <component name="RunManager" selected="Application.T1SumAdjacentEqualNumbers">
     <configuration name="T10TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsExercise.T10TopNumber" />
       <module name="Methods" />
@@ -65,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodsExercise.T6MiddleCharacters" />
-      <module name="Methods" />
+    <configuration name="T1SumAdjacentEqualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.T1SumAdjacentEqualNumbers" />
+      <module name="List" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MethodsExercise.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1SumAdjacentEqualNumbers" />
         <item itemvalue="Application.T9PalindromeIntegers" />
         <item itemvalue="Application.T10TopNumber" />
         <item itemvalue="Application.T8FactorialDivision" />
         <item itemvalue="Application.T7NxNMatrix" />
-        <item itemvalue="Application.T6MiddleCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +258,11 @@
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T9PalindromeIntegers.java</url>
           <line>13</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
