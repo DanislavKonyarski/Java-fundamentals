@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/List/src/ListLab/RadoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListLab/T2GaussTrick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1SumAdjacentEqualNumbers">
+  <component name="RunManager" selected="Application.T2GaussTrick">
     <configuration name="T10TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsExercise.T10TopNumber" />
       <module name="Methods" />
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T7NxNMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodsExercise.T7NxNMatrix" />
-      <module name="Methods" />
+    <configuration name="T2GaussTrick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.T2GaussTrick" />
+      <module name="List" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MethodsExercise.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2GaussTrick" />
         <item itemvalue="Application.T1SumAdjacentEqualNumbers" />
         <item itemvalue="Application.T9PalindromeIntegers" />
         <item itemvalue="Application.T10TopNumber" />
         <item itemvalue="Application.T8FactorialDivision" />
-        <item itemvalue="Application.T7NxNMatrix" />
       </list>
     </recent_temporary>
   </component>
