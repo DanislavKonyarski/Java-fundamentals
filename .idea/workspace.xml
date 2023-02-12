@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/List/src/ListLab/RadoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/ListLab/T2GaussTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListLab/T3MergingLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,26 +54,13 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2GaussTrick">
+  <component name="RunManager" selected="Application.T3MergingLists">
     <configuration name="T10TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsExercise.T10TopNumber" />
       <module name="Methods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MethodsExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T1SumAdjacentEqualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListLab.T1SumAdjacentEqualNumbers" />
-      <module name="List" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +81,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T3MergingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.T3MergingLists" />
+      <module name="List" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodsExercise.T4PasswordValidator" />
+      <module name="Methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MethodsExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="T8FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsExercise.T8FactorialDivision" />
       <module name="Methods" />
@@ -108,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodsExercise.T9PalindromeIntegers" />
-      <module name="Methods" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MethodsExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T2GaussTrick" />
-        <item itemvalue="Application.T1SumAdjacentEqualNumbers" />
-        <item itemvalue="Application.T9PalindromeIntegers" />
+        <item itemvalue="Application.T3MergingLists" />
         <item itemvalue="Application.T10TopNumber" />
+        <item itemvalue="Application.T4PasswordValidator" />
         <item itemvalue="Application.T8FactorialDivision" />
+        <item itemvalue="Application.T2GaussTrick" />
       </list>
     </recent_temporary>
   </component>
@@ -246,11 +245,6 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T9PalindromeIntegers.java</url>
           <line>8</line>
           <option name="timeStamp" value="23" />
@@ -264,6 +258,20 @@
           <url>file://$PROJECT_DIR$/List/src/ListLab/T1SumAdjacentEqualNumbers.java</url>
           <line>15</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
+          <line>25</line>
+          <properties class="MethodsExercise.T10TopNumber" method="oneOdd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
