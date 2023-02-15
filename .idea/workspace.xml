@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T2ChangeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/ListsExercise/T1Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/ListsExercise/T1Train.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1Train">
+  <component name="RunManager" selected="Application.T2ChangeList">
     <configuration name="T1Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListsExercise.T1Train" />
       <module name="List" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4ListManipulationBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListLab.T4ListManipulationBasics" />
+    <configuration name="T2ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.T2ChangeList" />
       <module name="List" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListLab.*" />
+          <option name="PATTERN" value="ListsExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2ChangeList" />
         <item itemvalue="Application.T1Train" />
         <item itemvalue="Application.T7RemoveNegativesAndReverse" />
         <item itemvalue="Application.T6ListOfProducts" />
         <item itemvalue="Application.T5ListManipulationAdvanced" />
-        <item itemvalue="Application.T4ListManipulationBasics" />
       </list>
     </recent_temporary>
   </component>
@@ -278,6 +278,11 @@
           <url>file://$PROJECT_DIR$/List/src/ListsExercise/T1Train.java</url>
           <line>11</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/T2ChangeList.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
