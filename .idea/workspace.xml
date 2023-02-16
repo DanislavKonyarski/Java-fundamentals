@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T5BombNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T6CardsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,39 +49,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ListsExercise" />
       <recent name="DataTypesAndVariablesLab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T5BombNumbers">
-    <configuration name="T1Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T1Train" />
-      <module name="List" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListsExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T2ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T2ChangeList" />
-      <module name="List" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListsExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T6CardsGame">
     <configuration name="T3HouseParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListsExercise.T3HouseParty" />
       <module name="List" />
@@ -120,13 +96,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T6CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.T6CardsGame" />
+      <module name="List" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListsExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.demo" />
+      <module name="List" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListsExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T6CardsGame" />
         <item itemvalue="Application.T5BombNumbers" />
+        <item itemvalue="Application.demo" />
         <item itemvalue="Application.T4ListOperations" />
         <item itemvalue="Application.T3HouseParty" />
-        <item itemvalue="Application.T2ChangeList" />
-        <item itemvalue="Application.T1Train" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +295,16 @@
           <url>file://$PROJECT_DIR$/List/src/ListsExercise/T5BombNumbers.java</url>
           <line>13</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/demo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/T6CardsGame.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
