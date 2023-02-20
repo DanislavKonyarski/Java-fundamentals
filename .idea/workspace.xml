@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T7AppendArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/SchoolLibrary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +60,10 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T7AppendArrays">
-    <configuration name="T4ListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T4ListOperations" />
-      <module name="List" />
+  <component name="RunManager" selected="Application.MidThree">
+    <configuration name="MidMerry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.MidMerry" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListsExercise.*" />
@@ -69,9 +74,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T5BombNumbers" />
-      <module name="List" />
+    <configuration name="MidOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.MidOne" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListsExercise.*" />
@@ -82,9 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T6CardsGame" />
-      <module name="List" />
+    <configuration name="MidThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.MidThree" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListsExercise.*" />
@@ -95,9 +100,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T7AppendArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T7AppendArrays" />
-      <module name="List" />
+    <configuration name="MidTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.MidTwo" />
+      <module name="Arrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListsExercise.*" />
@@ -108,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.demo" />
+    <configuration name="SchoolLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.SchoolLibrary" />
       <module name="List" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T7AppendArrays" />
-        <item itemvalue="Application.T6CardsGame" />
-        <item itemvalue="Application.T5BombNumbers" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.T4ListOperations" />
+        <item itemvalue="Application.MidThree" />
+        <item itemvalue="Application.MidMerry" />
+        <item itemvalue="Application.MidTwo" />
+        <item itemvalue="Application.MidOne" />
+        <item itemvalue="Application.SchoolLibrary" />
       </list>
     </recent_temporary>
   </component>
@@ -231,11 +236,6 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T3CharactersInRange.java</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
@@ -304,6 +304,31 @@
           <url>file://$PROJECT_DIR$/List/src/ListsExercise/T7AppendArrays.java</url>
           <line>11</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/ArraysExercise/demo2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/SchoolLibrary.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/mid/MidThree.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/mid/MidTwo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>

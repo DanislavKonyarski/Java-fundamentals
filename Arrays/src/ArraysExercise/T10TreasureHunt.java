@@ -54,7 +54,7 @@ public class T10TreasureHunt {
                     workString = "";
                     String stealString = "";
                     int countSteal = Integer.parseInt(scanner.next());
-                    if (countSteal>workArr.length){
+                    if (countSteal>=workArr.length){
                         countSteal= workArr.length;
                     }
                     for (int i = workArr.length-countSteal; i < workArr.length ; i++) {
