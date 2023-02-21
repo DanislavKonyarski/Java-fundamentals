@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/mid/MidTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/SchoolLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T8AnonymousThreat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/ArraysExercise/T10TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +56,10 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MidThree">
-    <configuration name="MidMerry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mid.MidMerry" />
-      <module name="Arrays" />
+  <component name="RunManager" selected="Application.T8AnonymousThreat">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.Demo" />
+      <module name="List" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListsExercise.*" />
@@ -74,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MidOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mid.MidOne" />
+    <configuration name="MidMerry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid.MidMerry" />
       <module name="Arrays" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.SchoolLibrary" />
+    <configuration name="T8AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.T8AnonymousThreat" />
       <module name="List" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T8AnonymousThreat" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MidThree" />
         <item itemvalue="Application.MidMerry" />
         <item itemvalue="Application.MidTwo" />
-        <item itemvalue="Application.MidOne" />
-        <item itemvalue="Application.SchoolLibrary" />
       </list>
     </recent_temporary>
   </component>
@@ -329,6 +325,16 @@
           <url>file://$PROJECT_DIR$/Arrays/src/mid/MidTwo.java</url>
           <line>10</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/T8AnonymousThreat.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/Demo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
