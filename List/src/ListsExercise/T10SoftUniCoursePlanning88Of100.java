@@ -17,13 +17,14 @@ public class T10SoftUniCoursePlanning88Of100 {
                     inputLine.add(commandList.get(1));
                 }
             } else if (commandList.get(0).startsWith("Insert")) {
-                if (!inputLine.contains(commandList.get(1))&&
-                Integer.parseInt(commandList.get(2))>=0&&Integer.parseInt(commandList.get(2))<=inputLine.size()-1) {
+                if (!inputLine.contains(commandList.get(1)) &&
+                        Integer.parseInt(commandList.get(2)) >= 0 &&
+                        Integer.parseInt(commandList.get(2)) <= inputLine.size() - 1) {
                     inputLine.add(Integer.parseInt(commandList.get(2)), commandList.get(1));
                 }
             } else if (commandList.get(0).startsWith("Remove")) {
-                if (inputLine.get(inputLine.size()-1).contains(commandList.get(1))){
-                    inputLine.add(inputLine.size(),"");
+                if (inputLine.get(inputLine.size() - 1).contains(commandList.get(1))) {
+                    inputLine.add(inputLine.size(), "");
                 }
                 if (inputLine.contains(commandList.get(1))) {
                     int index = inputLine.indexOf(commandList.get(1));
@@ -34,18 +35,18 @@ public class T10SoftUniCoursePlanning88Of100 {
                         inputLine.remove(commandList.get(1));
                     }
                 }
-                if (inputLine.get(inputLine.size()-1).equals("")){
-                    inputLine.remove(inputLine.size()-1);
+                if (inputLine.get(inputLine.size() - 1).equals("")) {
+                    inputLine.remove(inputLine.size() - 1);
                 }
             } else if (commandList.get(0).startsWith("Swap")) {
                 if (inputLine.contains(commandList.get(1)) &&
                         inputLine.contains(commandList.get(2))) {
                     int indexOne = inputLine.indexOf(commandList.get(1));
                     int indexTwo = inputLine.indexOf(commandList.get(2));
-                    if (inputLine.get(inputLine.size()-1).contains(commandList.get(1))
-                            ||inputLine.get(inputLine.size()-1).contains(commandList.get(2))){
-                        if (!inputLine.get(inputLine.size()-1).contains("Exercise")){
-                        inputLine.add(inputLine.size(),"");
+                    if (inputLine.get(inputLine.size() - 1).contains(commandList.get(1))
+                            || inputLine.get(inputLine.size() - 1).contains(commandList.get(2))) {
+                        if (!inputLine.get(inputLine.size() - 1).contains("Exercise")) {
+                            inputLine.add(inputLine.size(), "");
                         }
                     }
                     if (inputLine.get(indexTwo + 1).contains(commandList.get(2)) &&
@@ -54,43 +55,55 @@ public class T10SoftUniCoursePlanning88Of100 {
                         String currentExerciseIndexOne = inputLine.get(indexOne + 1);
                         String currentLessonIndexTwo = inputLine.get(indexTwo);
                         String currentExerciseIndexTwo = inputLine.get(indexTwo + 1);
-                        inputLine.remove(indexOne);
-                        inputLine.remove(indexOne);
-                        inputLine.remove(indexTwo - 2);
-                        inputLine.remove(indexTwo - 2);
-                        inputLine.add(indexOne, currentExerciseIndexTwo);
-                        inputLine.add(indexOne, currentLessonIndexTwo);
-                        inputLine.add(indexTwo, currentExerciseIndexOne);
-                        inputLine.add(indexTwo, currentLessonIndexOne);
+                        inputLine.set(indexOne,currentLessonIndexTwo);
+                        inputLine.set(indexOne+1,currentExerciseIndexTwo);
+                        inputLine.set(indexTwo,currentLessonIndexOne);
+                        inputLine.set(indexTwo+1,currentExerciseIndexOne);
                     } else if (inputLine.get(indexTwo + 1).contains(commandList.get(2))) {
-                        String currentLesson = inputLine.get(indexTwo);
-                        String currentExercise = inputLine.get(indexTwo + 1);
-                        String currentLessonTwo = inputLine.get(indexOne);
-                        inputLine.add(indexTwo,currentLessonTwo);
-                        inputLine.remove(indexTwo+1);
-                        inputLine.add(indexOne,currentLesson);
-                        inputLine.remove(indexOne+1);
-                        inputLine.remove(currentExercise);
-                        inputLine.add(indexOne+1,currentExercise);
-                    } else if  (inputLine.get(indexOne + 1).contains(commandList.get(1))) {
-                        String currentLesson = inputLine.get(indexOne);
-                        String currentExercise = inputLine.get(indexOne + 1);
-                        String currentLessonTwo = inputLine.get(indexTwo);
-                        inputLine.add(indexOne,currentLessonTwo);
-                        inputLine.remove(indexOne+1);
-                        inputLine.add(indexTwo,currentLesson);
-                        inputLine.remove(indexTwo+1);
-                        inputLine.remove(currentExercise);
-                        inputLine.add(indexTwo+1,currentExercise);
+                        if (indexTwo>indexOne) {
+                            String currentLesson = inputLine.get(indexTwo);
+                            String currentExercise = inputLine.get(indexTwo + 1);
+                            String currentLessonTwo = inputLine.get(indexOne);
+                            inputLine.set(indexTwo, currentLessonTwo);
+                            inputLine.set(indexOne, currentLesson);
+                            inputLine.remove(currentExercise);
+                            inputLine.add(indexOne + 1, currentExercise);
+                        }else {
+                            String currentLesson = inputLine.get(indexTwo);
+                            String currentExercise = inputLine.get(indexTwo + 1);
+                            String currentLessonTwo = inputLine.get(indexOne);
+                            inputLine.set(indexTwo, currentLessonTwo);
+                            inputLine.set(indexOne, currentLesson);
+                            inputLine.add(indexOne + 1, currentExercise);
+                            inputLine.remove(currentExercise);
+                        }
+                    } else if (inputLine.get(indexOne + 1).contains(commandList.get(1))) {
+                        if (indexOne<indexTwo) {
+                            String currentLesson = inputLine.get(indexOne);
+                            String currentExercise = inputLine.get(indexOne + 1);
+                            String currentLessonTwo = inputLine.get(indexTwo);
+                            inputLine.set(indexOne, currentLessonTwo);
+                            inputLine.set(indexTwo, currentLesson);
+                            inputLine.add(indexTwo + 1, currentExercise);
+                            inputLine.remove(indexOne + 1);
+                        }else {
+                            String currentLesson = inputLine.get(indexOne);
+                            String currentExercise = inputLine.get(indexOne + 1);
+                            String currentLessonTwo = inputLine.get(indexTwo);
+                            inputLine.set(indexOne, currentLessonTwo);
+                            inputLine.set(indexTwo, currentLesson);
+                            inputLine.remove(indexOne + 1);
+                            inputLine.add(indexTwo + 1, currentExercise);
+                        }
+
 
                     } else {
                         String currentLesson = inputLine.get(indexOne);
-                        inputLine.remove(indexOne);
-                        inputLine.add(indexOne, commandList.get(2));
-                        inputLine.remove(indexTwo);
-                        inputLine.add(indexTwo, currentLesson);
+                        String currentLessonTwo = inputLine.get(indexTwo);
+                        inputLine.set(indexOne,currentLessonTwo);
+                        inputLine.set(indexTwo,currentLesson);
                     }
-                    if (inputLine.contains("")){
+                    if (inputLine.contains("")) {
                         inputLine.remove("");
                     }
                 }

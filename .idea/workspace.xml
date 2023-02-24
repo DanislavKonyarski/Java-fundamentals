@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/List/src/ListsExercise/T10SoftUniCoursePlanning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/ListsExercise/T10SoftUniCoursePlanning88Of100.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/ListsExercise/T10SoftUniCoursePlanning88Of100.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T10SoftUniCoursePlanning">
+  <component name="RunManager" selected="Application.T10SoftUniCoursePlanning88Of100">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListsExercise.Demo" />
       <module name="List" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T10SoftUniCoursePlanning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T10SoftUniCoursePlanning" />
+    <configuration name="T10SoftUniCoursePlanning88Of100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsExercise.T10SoftUniCoursePlanning88Of100" />
       <module name="List" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T10SoftUniCoursePlanning" />
+        <item itemvalue="Application.T10SoftUniCoursePlanning88Of100" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.T9PokemonDontGo" />
         <item itemvalue="Application.T8AnonymousThreat" />
@@ -341,7 +341,7 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/List/src/ListsExercise/T10SoftUniCoursePlanning.java</url>
+          <url>file://$PROJECT_DIR$/List/src/ListsExercise/T10SoftUniCoursePlanning88Of100.java</url>
           <line>13</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
