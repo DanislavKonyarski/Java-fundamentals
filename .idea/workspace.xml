@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T2SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T3BigFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2SumBigNumbers">
+  <component name="RunManager" selected="Application.T3BigFactorial">
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListsExercise.Demo2" />
       <module name="List" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9PokemonDontGo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T9PokemonDontGo" />
-      <module name="List" />
+    <configuration name="T3BigFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesLab.T3BigFactorial" />
+      <module name="ObjectsAndClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListsExercise.*" />
+          <option name="PATTERN" value="ObjectsAndClassesLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3BigFactorial" />
         <item itemvalue="Application.T2SumBigNumbers" />
         <item itemvalue="Application.T1RandomizeWords" />
         <item itemvalue="Application.T10SoftUniCoursePlanning88Of100" />
         <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.T9PokemonDontGo" />
       </list>
     </recent_temporary>
   </component>
@@ -354,6 +354,11 @@
           <url>file://$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T2SumBigNumbers.java</url>
           <line>7</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T3BigFactorial.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
