@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Java-fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodsLab/Methods.iml" filepath="$PROJECT_DIR$/MethodsLab/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectsAndClasses/ObjectsAndClasses.iml" filepath="$PROJECT_DIR$/ObjectsAndClasses/ObjectsAndClasses.iml" />
     </modules>
   </component>
 </project>
