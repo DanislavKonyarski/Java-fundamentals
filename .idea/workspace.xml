@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T2SumBigNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T1RandomizeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T1RandomizeWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1RandomizeWords">
+  <component name="RunManager" selected="Application.T2SumBigNumbers">
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListsExercise.Demo2" />
       <module name="List" />
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T8AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsExercise.T8AnonymousThreat" />
-      <module name="List" />
+    <configuration name="T2SumBigNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesLab.T2SumBigNumbers" />
+      <module name="ObjectsAndClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListsExercise.*" />
+          <option name="PATTERN" value="ObjectsAndClassesLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2SumBigNumbers" />
         <item itemvalue="Application.T1RandomizeWords" />
         <item itemvalue="Application.T10SoftUniCoursePlanning88Of100" />
         <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.T9PokemonDontGo" />
-        <item itemvalue="Application.T8AnonymousThreat" />
       </list>
     </recent_temporary>
   </component>
@@ -348,8 +347,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T1RandomizeWords.java</url>
-          <line>14</line>
+          <line>13</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesLab/T2SumBigNumbers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
