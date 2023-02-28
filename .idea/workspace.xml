@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesExercise/T1AdvertisementMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesExercise/T1AdvertisementMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesExercise/T2Articles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/src/ObjectsAndClassesExercise/T3OpinionPoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1AdvertisementMessage">
+  <component name="RunManager" selected="Application.T2Articles">
     <configuration name="T1AdvertisementMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T1AdvertisementMessage" />
       <module name="ObjectsAndClasses" />
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3BigFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesLab.T3BigFactorial" />
+    <configuration name="T2Articles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T2Articles" />
       <module name="ObjectsAndClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClassesLab.*" />
+          <option name="PATTERN" value="ObjectsAndClassesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesLab.T4Songs" />
+    <configuration name="T3OpinionPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T3OpinionPoll" />
       <module name="ObjectsAndClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClassesLab.*" />
+          <option name="PATTERN" value="ObjectsAndClassesExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2Articles" />
+        <item itemvalue="Application.T3OpinionPoll" />
         <item itemvalue="Application.T1AdvertisementMessage" />
         <item itemvalue="Application.T6Students2" />
         <item itemvalue="Application.T5Students" />
-        <item itemvalue="Application.T4Songs" />
-        <item itemvalue="Application.T3BigFactorial" />
       </list>
     </recent_temporary>
   </component>
