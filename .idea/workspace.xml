@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T2WordSynonyms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T3OddOccurrences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2WordSynonyms">
+  <component name="RunManager" selected="Application.T3OddOccurrences">
     <configuration name="ObjectsAndClassesExercise.T7GroomingSalon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T7GroomingSalon" />
       <module name="ObjectsAndClasses" />
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6OrderByAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T6OrderByAge" />
-      <module name="ObjectsAndClasses" />
+    <configuration name="T3OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaAndStreamAPILab.T3OddOccurrences" />
+      <module name="MapsLambdaAndStreamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GroomingSalon.Pet" />
+          <option name="PATTERN" value="MapsLambdaAndStreamAPILab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T3OddOccurrences" />
         <item itemvalue="Application.T2WordSynonyms" />
         <item itemvalue="Application.T1CountRealNumbers" />
         <item itemvalue="Application.ObjectsAndClassesExercise.T7GroomingSalon" />
         <item itemvalue="Application.T7GroomingSalon" />
-        <item itemvalue="Application.T6OrderByAge" />
       </list>
     </recent_temporary>
   </component>
