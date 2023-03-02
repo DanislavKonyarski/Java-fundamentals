@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T2WordSynonyms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/MapsLambdaAndStreamAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/MapsLambdaAndStreamAPI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T1CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T1CountRealNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1CountRealNumbers">
+  <component name="RunManager" selected="Application.T2WordSynonyms">
     <configuration name="ObjectsAndClassesExercise.T7GroomingSalon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T7GroomingSalon" />
       <module name="ObjectsAndClasses" />
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5VehicleCatalogue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.T5VehicleCatalogue" />
-      <module name="ObjectsAndClasses" />
+    <configuration name="T2WordSynonyms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaAndStreamAPILab.T2WordSynonyms" />
+      <module name="MapsLambdaAndStreamAPI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GroomingSalon.Pet" />
+          <option name="PATTERN" value="MapsLambdaAndStreamAPILab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2WordSynonyms" />
         <item itemvalue="Application.T1CountRealNumbers" />
         <item itemvalue="Application.ObjectsAndClassesExercise.T7GroomingSalon" />
         <item itemvalue="Application.T7GroomingSalon" />
         <item itemvalue="Application.T6OrderByAge" />
-        <item itemvalue="Application.T5VehicleCatalogue" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +389,11 @@
           <url>file://$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T1CountRealNumbers.java</url>
           <line>14</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPILab/T2WordSynonyms.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
