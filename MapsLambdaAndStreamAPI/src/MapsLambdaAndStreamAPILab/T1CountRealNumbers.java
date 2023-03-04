@@ -12,6 +12,7 @@ public class T1CountRealNumbers {
         Scanner scanner = new Scanner(System.in);
         double[] inputArr = Arrays.stream(scanner.nextLine().split(" ")).mapToDouble(Double::parseDouble).toArray();
         Map<Double,Integer> numberMap =new TreeMap<>();
+
         for (int i = 0; i < inputArr.length; i++) {
             if (numberMap.containsKey(inputArr[i])){
                 numberMap.put(inputArr[i],numberMap.get(inputArr[i])+1);
