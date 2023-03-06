@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPIExercise/T9ForceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/src/MapsLambdaAndStreamAPIExercise/T10SoftUniExamResults.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +55,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T9ForceBook">
-    <configuration name="T5Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapsLambdaAndStreamAPIExercise.T5Courses" />
+  <component name="RunManager" selected="Application.T10SoftUniExamResults">
+    <configuration name="T10SoftUniExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaAndStreamAPIExercise.T10SoftUniExamResults" />
       <module name="MapsLambdaAndStreamAPI" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T10SoftUniExamResults" />
         <item itemvalue="Application.T9ForceBook" />
         <item itemvalue="Application.T8CompanyUsers" />
         <item itemvalue="Application.T7LegendaryFarming" />
         <item itemvalue="Application.T6StudentAcademy" />
-        <item itemvalue="Application.T5Courses" />
       </list>
     </recent_temporary>
   </component>
