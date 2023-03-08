@@ -21,12 +21,10 @@ public class T3Orders {
                 productMap.get(product).set(0,price);
                 productMap.get(product).set(1,currentQuantity+quantity);
             }
-
             command = scanner.nextLine();
         }
         for (Map.Entry<String, List<Double>> entry : productMap.entrySet()) {
             System.out.printf("%s -> %.2f%n",entry.getKey(),entry.getValue().get(0)*entry.getValue().get(1));
         }
-
     }
 }

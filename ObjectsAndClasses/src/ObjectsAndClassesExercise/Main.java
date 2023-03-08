@@ -2,7 +2,7 @@ package ObjectsAndClassesExercise;
 
 import java.util.Scanner;
 
-public class T7GroomingSalon {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Initialize the repository
