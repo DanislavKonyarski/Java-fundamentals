@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T3Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T4TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T5DigitsLettersAndOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,33 +57,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T3Substring">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.Main" />
-      <module name="ObjectsAndClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectsAndClassesExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T10SoftUniExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapsLambdaAndStreamAPIExercise.T10SoftUniExamResults" />
-      <module name="MapsLambdaAndStreamAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MapsLambdaAndStreamAPIExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T5DigitsLettersAndOther">
     <configuration name="T1ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextProcessingLab.T1ReverseStrings" />
       <module name="TextProcessing" />
@@ -122,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T4TextFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessingLab.T4TextFilter" />
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextProcessingLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T5DigitsLettersAndOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessingLab.T5DigitsLettersAndOther" />
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextProcessingLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T5DigitsLettersAndOther" />
+        <item itemvalue="Application.T4TextFilter" />
         <item itemvalue="Application.T3Substring" />
         <item itemvalue="Application.T2RepeatStrings" />
         <item itemvalue="Application.T1ReverseStrings" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.T10SoftUniExamResults" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +434,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T4TextFilter.java</url>
+          <line>5</line>
+          <properties class="TextProcessingLab.T4TextFilter" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
