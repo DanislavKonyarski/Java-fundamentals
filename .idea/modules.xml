@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/MapsLambdaAndStreamAPI/MapsLambdaAndStreamAPI.iml" filepath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/MapsLambdaAndStreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodsLab/Methods.iml" filepath="$PROJECT_DIR$/MethodsLab/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectsAndClasses/ObjectsAndClasses.iml" filepath="$PROJECT_DIR$/ObjectsAndClasses/ObjectsAndClasses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MapsLambdaAndStreamAPI/TextProcessing/TextProcessing.iml" filepath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/TextProcessing/TextProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextProcessing/TextProcessing.iml" filepath="$PROJECT_DIR$/TextProcessing/TextProcessing.iml" />
     </modules>
   </component>
 </project>
