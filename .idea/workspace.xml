@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/TextProcessing/TextProcessing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MapsLambdaAndStreamAPI/TextProcessing/src/TextProcessingLab/T1ReverseStrings.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T1ReverseStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
