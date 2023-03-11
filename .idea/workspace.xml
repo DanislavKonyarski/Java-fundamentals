@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T2CharacterMultiplier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T1ValidUsernames.java" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T1ValidUsernames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1ValidUsernames">
+  <component name="RunManager" selected="Application.T2CharacterMultiplier">
     <configuration name="T1ValidUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T1ValidUsernames" />
       <module name="TextProcessing" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2RepeatStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextProcessingLab.T2RepeatStrings" />
+    <configuration name="T2CharacterMultiplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T2CharacterMultiplier" />
       <module name="TextProcessing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextProcessingLab.*" />
+          <option name="PATTERN" value="TextProcessingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2CharacterMultiplier" />
         <item itemvalue="Application.T1ValidUsernames" />
         <item itemvalue="Application.T5DigitsLettersAndOther" />
         <item itemvalue="Application.T4TextFilter" />
         <item itemvalue="Application.T3Substring" />
-        <item itemvalue="Application.T2RepeatStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -415,6 +415,11 @@
           <url>file://$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T3Substring.java</url>
           <line>8</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T2CharacterMultiplier.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
