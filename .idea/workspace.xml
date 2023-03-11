@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T4TextFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingLab/T5DigitsLettersAndOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T1ValidUsernames.java" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T1ValidUsernames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +56,13 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T5DigitsLettersAndOther">
-    <configuration name="T1ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextProcessingLab.T1ReverseStrings" />
+  <component name="RunManager" selected="Application.T1ValidUsernames">
+    <configuration name="T1ValidUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T1ValidUsernames" />
       <module name="TextProcessing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TextProcessingLab.*" />
+          <option name="PATTERN" value="TextProcessingExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1ValidUsernames" />
         <item itemvalue="Application.T5DigitsLettersAndOther" />
         <item itemvalue="Application.T4TextFilter" />
         <item itemvalue="Application.T3Substring" />
         <item itemvalue="Application.T2RepeatStrings" />
-        <item itemvalue="Application.T1ReverseStrings" />
       </list>
     </recent_temporary>
   </component>
