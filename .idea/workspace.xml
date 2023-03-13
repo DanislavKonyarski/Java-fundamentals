@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T7StringExplosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/src/TextProcessingExercise/T8LettersChangeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +56,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T7StringExplosion">
-    <configuration name="T4CaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T4CaesarCipher" />
-      <module name="TextProcessing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TextProcessingExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T8LettersChangeNumbers">
     <configuration name="T5MultiplyBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T5MultiplyBigNumber" />
       <module name="TextProcessing" />
@@ -109,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T8LettersChangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.T8LettersChangeNumbers" />
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TextProcessingExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextProcessingExercise.test" />
       <module name="TextProcessing" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T8LettersChangeNumbers" />
         <item itemvalue="Application.T7StringExplosion" />
         <item itemvalue="Application.T5MultiplyBigNumber" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.T6ReplaceRepeatingChars" />
-        <item itemvalue="Application.T4CaesarCipher" />
       </list>
     </recent_temporary>
   </component>
