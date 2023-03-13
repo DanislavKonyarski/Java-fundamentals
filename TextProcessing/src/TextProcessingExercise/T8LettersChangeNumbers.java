@@ -20,31 +20,26 @@ public class T8LettersChangeNumbers {
             int numLowerCase = currentInput.charAt(currentInput.length() - 1) - 96;
             if (Character.isUpperCase(currentInput.charAt(0))) {
                 int numLetter = currentInput.charAt(0) - 64;
-                double currentSum = 0;
-                currentSum = number / numLetter;
+                sum += number / numLetter;
                 if (upperCase) {
                     numLetter = numUpperCase;
-                    currentSum -= numLetter;
+                    sum -= numLetter;
                 } else {
                     numLetter = numLowerCase;
-                    currentSum += numLetter;
+                    sum += numLetter;
                 }
-                sum += currentSum;
             } else if (Character.isLowerCase(currentInput.charAt(0))) {
                 int numLetter = currentInput.charAt(0) - 96;
-                double currentSum = 0;
-                currentSum += number * numLetter;
+                sum += number * numLetter;
                 if (upperCase) {
                     numLetter = numUpperCase;
-                    currentSum -= numLetter;
+                    sum -= numLetter;
                 } else {
                     numLetter = numLowerCase;
-                    currentSum += numLetter;
+                    sum += numLetter;
                 }
-                sum += currentSum;
             }
         }
         System.out.printf("%.2f", sum);
-        ;
     }
 }
