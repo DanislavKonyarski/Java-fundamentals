@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T2Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T3SoftUniBarIncome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +57,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2Race">
-    <configuration name="T1Furniture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T1Furniture" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.Demo" />
       <module name="RegularExpressions" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2MatchPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsLab.T2MatchPhoneNumber" />
+    <configuration name="T1Furniture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T1Furniture" />
       <module name="RegularExpressions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RegularExpressionsLab.*" />
+          <option name="PATTERN" value="RegularExpressionsExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3MatchDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsLab.T3MatchDates" />
+    <configuration name="T3SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T3SoftUniBarIncome" />
       <module name="RegularExpressions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RegularExpressionsLab.*" />
+          <option name="PATTERN" value="RegularExpressionsExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.T3SoftUniBarIncome" />
         <item itemvalue="Application.T2Race" />
         <item itemvalue="Application.T2WordSynonyms" />
         <item itemvalue="Application.T1Furniture" />
-        <item itemvalue="Application.T3MatchDates" />
-        <item itemvalue="Application.T2MatchPhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +446,11 @@
           <url>file://$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T2Race.java</url>
           <line>46</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T3SoftUniBarIncome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
