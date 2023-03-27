@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T5NetherRealms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T6ExtractEmails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T6ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T6ExtractEmails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,22 +56,9 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T5NetherRealms">
+  <component name="RunManager" selected="Application.T6ExtractEmails">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.Demo" />
-      <module name="RegularExpressions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RegularExpressionsExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T2Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T2Race" />
       <module name="RegularExpressions" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T6ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T6ExtractEmails" />
+      <module name="RegularExpressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegularExpressionsExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T6ExtractEmails" />
         <item itemvalue="Application.T5NetherRealms" />
         <item itemvalue="Application.T4StarEnigma" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.T3SoftUniBarIncome" />
-        <item itemvalue="Application.T2Race" />
       </list>
     </recent_temporary>
   </component>
