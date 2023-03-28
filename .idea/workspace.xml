@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/FinalExamPreparation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E1ProgrammingFundamentalsFinalExamRetake/T1TheImitationGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T6ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T6ExtractEmails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T6ExtractEmails">
+  <component name="RunManager" selected="Application.T1TheImitationGame">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.Demo" />
       <module name="RegularExpressions" />
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T3SoftUniBarIncome" />
-      <module name="RegularExpressions" />
+    <configuration name="T1TheImitationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E1ProgrammingFundamentalsFinalExamRetake.T1TheImitationGame" />
+      <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RegularExpressionsExercises.*" />
+          <option name="PATTERN" value="E1ProgrammingFundamentalsFinalExamRetake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1TheImitationGame" />
         <item itemvalue="Application.T6ExtractEmails" />
         <item itemvalue="Application.T5NetherRealms" />
         <item itemvalue="Application.T4StarEnigma" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.T3SoftUniBarIncome" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +462,11 @@
           <url>file://$PROJECT_DIR$/RegularExpressions/src/RegularExpressionsExercises/T5NetherRealms.java</url>
           <line>10</line>
           <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/src/E1ProgrammingFundamentalsFinalExamRetake/T1TheImitationGame.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
