@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T1WorldTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T2MirrorWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1WorldTour">
+  <component name="RunManager" selected="Application.T2MirrorWords">
     <configuration name="T1TheImitationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E1ProgrammingFundamentalsFinalExamRetake.T1TheImitationGame" />
       <module name="FinalExamPreparation" />
@@ -96,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T2MirrorWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T2MirrorWords" />
+      <module name="FinalExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="T3NeedForSpeedIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E1ProgrammingFundamentalsFinalExamRetake.T3NeedForSpeedIII" />
       <module name="FinalExamPreparation" />
@@ -109,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularExpressionsExercises.T6ExtractEmails" />
-      <module name="RegularExpressions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RegularExpressionsExercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2MirrorWords" />
         <item itemvalue="Application.T1WorldTour" />
         <item itemvalue="Application.T3NeedForSpeedIII" />
         <item itemvalue="Application.T2EmojiDetector" />
         <item itemvalue="Application.T1TheImitationGame" />
-        <item itemvalue="Application.T6ExtractEmails" />
       </list>
     </recent_temporary>
   </component>
