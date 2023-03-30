@@ -1,4 +1,4 @@
-package T2ProgrammingFundamentalsFinalExam;
+package E2ProgrammingFundamentalsFinalExam;
 
 import java.util.ArrayList;
 import java.util.List;

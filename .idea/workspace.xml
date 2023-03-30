@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E3ProgrammingFundamentalsFinalExamRetake/T1SecretChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E3ProgrammingFundamentalsFinalExamRetake/T2AdAstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T1WorldTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E2ProgrammingFundamentalsFinalExam/T1WorldTour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T2MirrorWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E2ProgrammingFundamentalsFinalExam/T2MirrorWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T3ThePianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E2ProgrammingFundamentalsFinalExam/T3ThePianist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1SecretChat">
+  <component name="RunManager" selected="Application.T2AdAstra">
     <configuration name="T1SecretChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T1SecretChat" />
       <module name="FinalExamPreparation" />
@@ -71,11 +73,24 @@
       </method>
     </configuration>
     <configuration name="T1WorldTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T1WorldTour" />
+      <option name="MAIN_CLASS_NAME" value="E2ProgrammingFundamentalsFinalExam.T1WorldTour" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
+          <option name="PATTERN" value="E2ProgrammingFundamentalsFinalExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2AdAstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T2AdAstra" />
+      <module name="FinalExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E3ProgrammingFundamentalsFinalExamRetake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,24 +99,11 @@
       </method>
     </configuration>
     <configuration name="T2MirrorWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T2MirrorWords" />
+      <option name="MAIN_CLASS_NAME" value="E2ProgrammingFundamentalsFinalExam.T2MirrorWords" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T3NeedForSpeedIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E1ProgrammingFundamentalsFinalExamRetake.T3NeedForSpeedIII" />
-      <module name="FinalExamPreparation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="E1ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="E2ProgrammingFundamentalsFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="T3ThePianist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T3ThePianist" />
+      <option name="MAIN_CLASS_NAME" value="E2ProgrammingFundamentalsFinalExam.T3ThePianist" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
+          <option name="PATTERN" value="E2ProgrammingFundamentalsFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2AdAstra" />
         <item itemvalue="Application.T1SecretChat" />
         <item itemvalue="Application.T3ThePianist" />
         <item itemvalue="Application.T2MirrorWords" />
         <item itemvalue="Application.T1WorldTour" />
-        <item itemvalue="Application.T3NeedForSpeedIII" />
       </list>
     </recent_temporary>
   </component>
