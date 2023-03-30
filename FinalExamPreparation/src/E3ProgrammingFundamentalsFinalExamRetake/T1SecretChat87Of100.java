@@ -2,7 +2,7 @@ package E3ProgrammingFundamentalsFinalExamRetake;
 
 import java.util.Scanner;
 
-public class T1SecretChat {
+public class T1SecretChat87Of100 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder inputSB = new StringBuilder(scanner.nextLine());
