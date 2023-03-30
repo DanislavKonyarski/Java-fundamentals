@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/T2ProgrammingFundamentalsFinalExam/T3ThePianist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E3ProgrammingFundamentalsFinalExamRetake/T1SecretChat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +56,13 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T3ThePianist">
-    <configuration name="T1WorldTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T1WorldTour" />
+  <component name="RunManager" selected="Application.T1SecretChat">
+    <configuration name="T1SecretChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T1SecretChat" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
+          <option name="PATTERN" value="E3ProgrammingFundamentalsFinalExamRetake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2EmojiDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E1ProgrammingFundamentalsFinalExamRetake.T2EmojiDetector" />
+    <configuration name="T1WorldTour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2ProgrammingFundamentalsFinalExam.T1WorldTour" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E1ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="T2ProgrammingFundamentalsFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T1SecretChat" />
         <item itemvalue="Application.T3ThePianist" />
         <item itemvalue="Application.T2MirrorWords" />
         <item itemvalue="Application.T1WorldTour" />
         <item itemvalue="Application.T3NeedForSpeedIII" />
-        <item itemvalue="Application.T2EmojiDetector" />
       </list>
     </recent_temporary>
   </component>
@@ -474,6 +475,11 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/src/E1ProgrammingFundamentalsFinalExamRetake/T3NeedForSpeedIII.java</url>
           <line>20</line>
           <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/src/E3ProgrammingFundamentalsFinalExamRetake/T1SecretChat.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
