@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6351a2f1-eba8-41eb-90df-f897ad0a9912" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/E4ProgrammingFundamentalsFinalExamRetake/T1PasswordReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/finalExam/T2EasterEggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/finalExam/T3MessagesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/finalExam/TaskOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/finalExam/TaskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/src/finalExam/TaskTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +60,13 @@
       <recent name="C:\Users\user\Documents\GitHub\Java-fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T1PasswordReset">
-    <configuration name="T1PasswordReset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E4ProgrammingFundamentalsFinalExamRetake.T1PasswordReset" />
+  <component name="RunManager" selected="Application.T3MessagesManager">
+    <configuration name="T2EasterEggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalExam.T2EasterEggs" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E4ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="finalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1SecretChat87Of100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T1SecretChat87Of100" />
+    <configuration name="T3MessagesManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalExam.T3MessagesManager" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E3ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="finalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2AdAstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T2AdAstra" />
+    <configuration name="TaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalExam.TaskOne" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E3ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="finalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3PlantDiscovery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E3ProgrammingFundamentalsFinalExamRetake.T3PlantDiscovery" />
+    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalExam.TaskTwo" />
       <module name="FinalExamPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E3ProgrammingFundamentalsFinalExamRetake.*" />
+          <option name="PATTERN" value="finalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3ThePianist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E2ProgrammingFundamentalsFinalExam.T3ThePianist" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo" />
       <module name="FinalExamPreparation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="E2ProgrammingFundamentalsFinalExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T1PasswordReset" />
-        <item itemvalue="Application.T3PlantDiscovery" />
-        <item itemvalue="Application.T2AdAstra" />
-        <item itemvalue="Application.T1SecretChat87Of100" />
-        <item itemvalue="Application.T3ThePianist" />
+        <item itemvalue="Application.T3MessagesManager" />
+        <item itemvalue="Application.T2EasterEggs" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.TaskOne" />
+        <item itemvalue="Application.TaskTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -490,6 +488,11 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/src/E4ProgrammingFundamentalsFinalExamRetake/T1PasswordReset.java</url>
           <line>9</line>
           <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/src/finalExam/TaskOne.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Methods/src/MethodsExercise/T10TopNumber.java</url>
